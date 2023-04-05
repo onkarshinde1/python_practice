@@ -1,0 +1,18 @@
+from tkinter import*
+base=Tk()
+base.title("new window")
+base.geometry("")
+l1=Label(base,text="MY name is onkar",fg="blue", font=("arial",30,"bold"))
+l1.pack()
+frame=Frame(base)
+frame.pack()
+bottomframe:frame=Frame(base)
+bottomframe.pack(side=BOTTOM)
+b1=Button(frame,text="done",fg="red")
+b1.pack()
+b2=Button(text="ready",fg="red")
+b2.pack()
+b3=Button(text="hii",fg="red")
+b3.pack()
+
+base.mainloop()
