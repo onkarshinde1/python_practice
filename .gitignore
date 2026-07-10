@@ -1,0 +1,27 @@
+.claude
+
+# Ignore other course modules
+/3. Conditional Statements/
+/4. WHILE Loop/
+/5. FOR Loop/
+/6. BREAK and CONTINUE statements/
+/7. Nested Loops/
+/8. Functions/
+/9. Lists in Python/
+/10. Tuples in Python/
+/11. Dictionary in Python/
+/12. Sets in Python/
+/13. Strings in Python/
+/14. Shallow vs Deep Copy/
+/15. Pass by reference and value/
+/16. Annotations/
+/17. OOPS Concepts/
+/18. Exception Handling/
+/19. File Handling/
+/20. Modules/
+/21. Packages in Python/
+/22. Multithreading/
+/All questions answers/
+
+# Ignore runner temp files
+tempCodeRunnerFile.py
