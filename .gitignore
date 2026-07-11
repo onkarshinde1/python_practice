@@ -1,8 +1,8 @@
 .claude
 
 # Ignore other course modules
-/3. Conditional Statements/
-/4. WHILE Loop/
+# /3. Conditional Statements/
+# /4. WHILE Loop/
 /5. FOR Loop/
 /6. BREAK and CONTINUE statements/
 /7. Nested Loops/
