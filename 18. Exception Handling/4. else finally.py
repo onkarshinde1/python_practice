@@ -1,0 +1,11 @@
+try:
+    num = int(input("Enter a number: "))
+    result = 100 / num
+except ValueError:
+    print("That's not a valid number.")
+except ZeroDivisionError:
+    print("You can't divide by zero.")
+else:
+    print(f"Result: {result}")
+finally:
+    print("Calculation attempt complete.")
