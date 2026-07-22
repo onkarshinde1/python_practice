@@ -1,4 +1,4 @@
-my_tuple = (45, 32, 11, "Anirudh", "Khurana", "Surat", 99)
+my_tuple = (45, 32, 11, "Onkar", "Khurana", "Surat", 99)
 
 n = len(my_tuple)
 for i in range(0, n):

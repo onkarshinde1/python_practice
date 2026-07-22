@@ -1,5 +1,5 @@
 # Type Conversion
-my_set = {5, 5, 2, 4, 5, 5, 6, 5, "Anirudh", "Khurana", 99.99, 5}
+my_set = {5, 5, 2, 4, 5, 5, 6, 5, "Onkar", "Khurana", 99.99, 5}
 print(list(my_set))
 
 

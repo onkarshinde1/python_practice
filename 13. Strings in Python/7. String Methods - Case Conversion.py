@@ -8,7 +8,7 @@ capitalize(): Converts only the first character of the entire string to uppercas
 swapcase(): Swaps the case of each character - uppercase becomes lowercase and vice versa.
 """
 
-text = "Anirudh Khurana is a cODer JH789432.;[]'a##@@ sanjay khurana"
+text = "Onkar Khurana is a cODer JH789432.;[]'a##@@ sanjay khurana"
 print(text.upper())
 print(text.lower())
 print(text.title())

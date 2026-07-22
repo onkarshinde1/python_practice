@@ -15,4 +15,4 @@ def print_list(lst: list[int | str]):
 
 ans = max_marks([65, 32, 67, 87, 33])
 print(ans)
-print_list([43, 54, "Anirudh"])
+print_list([43, 54, "Onkar"])

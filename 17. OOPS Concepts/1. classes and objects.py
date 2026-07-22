@@ -14,5 +14,5 @@ class Student:
 
 
 # Object/Instance
-student1 = Student(1, "Anirudh", "Male", 88)
+student1 = Student(1, "Onkar", "Male", 88)
 student1.display_details()

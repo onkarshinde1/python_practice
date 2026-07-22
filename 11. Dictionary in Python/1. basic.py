@@ -3,7 +3,7 @@ marks = {
     "maths": 100,
     "comp": 88,
     55: 100,
-    101: "Anirudh",
+    101: "Onkar",
     "abc": [1, 2, 3, 4],
     (11, 12): "Surat",
     "comp": 100,

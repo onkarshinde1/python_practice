@@ -1,4 +1,4 @@
-name="Anirudh"
+name="Onkar"
 age=25.5
 gender='Male'
 is_student=True

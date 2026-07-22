@@ -11,7 +11,7 @@ class Student:
         self.__name = new_name
 
 
-s1 = Student("Anirudh")
+s1 = Student("Onkar")
 print(s1.get_name())
 s1.set_name("Xyz")
 print(s1.get_name())

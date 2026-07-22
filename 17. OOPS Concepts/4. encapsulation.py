@@ -13,7 +13,7 @@ class Bank:
         return self.__balance
 
 
-b1 = Bank("Anirudh", 1000)
+b1 = Bank("Onkar", 1000)
 print(b1.get_balance())
 b1.deposit(-1000)
 print(b1.get_balance())

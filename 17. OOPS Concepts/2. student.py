@@ -20,7 +20,7 @@ class Student:
             print("C")
 
 
-student1 = Student("Anirudh", 67, [78, 54, 19, 63])
+student1 = Student("Onkar", 67, [78, 54, 19, 63])
 total = student1.total()
 print(total)
 avg = student1.average()

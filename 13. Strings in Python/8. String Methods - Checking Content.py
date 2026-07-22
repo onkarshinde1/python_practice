@@ -7,7 +7,7 @@ isspace(): All Whitespace?
 startswith() and endswith()
 """
 
-text = "anirudh khurana"
+text = "onkar khurana"
 # print(text.isalpha())
 # print(text.isdigit())
 # print(text.isalnum())

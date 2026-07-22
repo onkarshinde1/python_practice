@@ -12,7 +12,7 @@
 # A\\\nirudh
 # print("A\\\\\\nirudh")
 
-# My name is "Anirudh" Khurana
-print('My name is "Anirudh" Khurana')
-print("My name is 'Anirudh' Khurana")
+# My name is "Onkar" Khurana
+print('My name is "Onkar" Khurana')
+print("My name is 'Onkar' Khurana")
 # Python Course - Topic Completed

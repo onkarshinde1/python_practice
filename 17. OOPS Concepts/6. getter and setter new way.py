@@ -12,7 +12,7 @@ class Student:
             self.__name = new_name
 
 
-s1 = Student("Anirudh")
+s1 = Student("Onkar")
 print(s1.name)
 s1.name = "Xyz"
 print(s1.name)

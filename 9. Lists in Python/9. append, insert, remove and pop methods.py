@@ -1,4 +1,4 @@
-lst = ["Anirudh", 54, 21.98, True, "Surat", 54, 54]
+lst = ["Onkar", 54, 21.98, True, "Surat", 54, 54]
 
 print(lst, id(lst))
 # lst.append(100)

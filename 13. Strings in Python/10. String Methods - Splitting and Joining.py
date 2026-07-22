@@ -4,7 +4,7 @@ split(): Break String into List
 join(): Combine List into String
 """
 
-# text = "anirudh khurana is a coder"
+# text = "onkar khurana is a coder"
 
 # print(len(text.split()))
 

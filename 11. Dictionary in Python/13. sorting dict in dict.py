@@ -1,5 +1,5 @@
 students = {
-    "anirudh": {"math": 87, "science": 92, "english": 74},
+    "onkar": {"math": 87, "science": 92, "english": 74},
     "priya": {"math": 65, "science": 78, "english": 90},
     "rahul": {"math": 55, "science": 60, "english": 48},
     "sneha": {"math": 95, "science": 88, "english": 82},

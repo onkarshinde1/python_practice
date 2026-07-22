@@ -1,4 +1,4 @@
-lst = ["Anirudh", "Sanjay", 56, 91.8120, 100, "Surat"]
+lst = ["Onkar", "Sanjay", 56, 91.8120, 100, "Surat"]
 
 print(f"lst = {lst}")
 

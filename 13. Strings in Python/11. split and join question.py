@@ -1,5 +1,5 @@
-text = "anirudh is a good coder and is learning python"
-# python learning is and coder....anirudh
+text = "onkar is a good coder and is learning python"
+# python learning is and coder....onkar
 
 words_list = text.split()
 words_list = words_list[::-1]

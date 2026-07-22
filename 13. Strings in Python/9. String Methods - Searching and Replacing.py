@@ -6,7 +6,7 @@ index(): Locate (with Error)
 replace(): Substitute Substrings
 """
 
-text = "anirudh khurana is a coder"
+text = "onkar khurana is a coder"
 # print(text.count(" "))
 # print(text.find("z"))
 # print(text.index("z"))

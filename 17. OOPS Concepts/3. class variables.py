@@ -5,7 +5,7 @@ class Student:
         self.name = name
 
 
-s1 = Student("Anirudh")
+s1 = Student("Onkar")
 s2 = Student("Priya")
 print(s1.name)  # instance variables
 print(s2.name)  # instance variables

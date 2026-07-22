@@ -1,6 +1,6 @@
 # Strings are immutable
 
-name = "Anirudh Khurana"
+name = "Onkar Khurana"
 print(name, id(name))
 
 # Override
