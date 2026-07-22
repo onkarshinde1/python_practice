@@ -7,3 +7,4 @@ print(type(name))
 print(type(age))
 print(type(is_student))
 print(type(gender))
+# Python Course - Topic Completed

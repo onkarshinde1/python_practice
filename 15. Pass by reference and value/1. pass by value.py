@@ -6,3 +6,4 @@ def add_number(x):
 num = 10
 add_number(num)
 print(f"Outside function = {num}")
+# Python Course - Topic Completed

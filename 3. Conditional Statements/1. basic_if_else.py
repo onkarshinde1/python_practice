@@ -14,3 +14,4 @@ if physics > 33 and chem > 33:
     print("Pass")
 else:
     print("Fail")
+# Python Course - Topic Completed

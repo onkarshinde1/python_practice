@@ -6,3 +6,4 @@ print(type(my_set))
 sett = set()
 print(sett)
 print(type(sett))
+# Python Course - Topic Completed

@@ -14,3 +14,4 @@ def greet(name: str, age: int, marks: float, adult: bool):
 x = calculate(5, 10)
 print(x)
 cal_maximum(5, 8, 11)
+# Python Course - Topic Completed

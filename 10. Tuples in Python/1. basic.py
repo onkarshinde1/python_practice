@@ -8,3 +8,4 @@ print(type(my_tuple))
 print(my_tuple.count(1))
 print(my_tuple.index("Anirudh"))
 print(my_tuple)
+# Python Course - Topic Completed
